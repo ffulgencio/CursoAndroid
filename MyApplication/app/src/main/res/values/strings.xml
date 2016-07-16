@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellido">Apellido</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="txtGuardar">Guardar</string>
+</resources>
